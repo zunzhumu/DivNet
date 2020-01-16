@@ -1,2 +1,2 @@
 # DivNet
-The official implementation code for paper “DivNet for Unsupervised Cross-modality Image Registration”
+Official pytorch implementation of the paper “DivNet for Unsupervised Cross-modality Image Registration”
